@@ -1,3 +1,7 @@
+## 0.2.0 (release date: 2017-11-24)
+
+ * Upgrade to PHP 7.1
+
 ## 0.1.6 (release date: 2017-08-30)
 
  * Added yarn (https://yarnpkg.com)
